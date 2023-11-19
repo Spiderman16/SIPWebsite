@@ -1,0 +1,16 @@
+body{
+    background-image: url('Image/photo.jpg');
+    background-size: cover; /* You can use other values like 'contain' or specific dimensions */
+    background-repeat: no-repeat; /* This prevents the background image from repeating */
+    background-position: center center; /* Center the background image */
+}
+
+nav{
+    background-color: black;
+}
+
+p{
+    font-size: 50px;
+    font-style: normal;
+    color: black;
+}
